@@ -1,0 +1,6 @@
+{
+  "name": "راديو الأثير",
+  "description": "تطبيق راديو عالمي يجمع الموجات القصيرة (SW) والمتوسطة (MW) والطويلة (LW) وشاشة عرض التردد التفاعلية مع التحديث عبر الإنترنت والبحث الصوتي وحفظ المفضلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
